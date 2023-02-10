@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Date of Demo Enter in MMDDYY Format</name>
+   <tag></tag>
+   <elementGuidId>91e1a2bf-ca63-4deb-89dd-af3d2134d662</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item-vfb-18']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item-vfb-18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2ee994ad-5ac1-4413-8bd3-8e65b93772bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-item vfb-item-date  </value>
+      <webElementGuid>bd921e12-95c9-429f-b6ab-cfb56b97f8bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>item-vfb-18</value>
+      <webElementGuid>0c5874d1-b99d-4018-bd5a-c722e9e2c6f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date of Demo Enter in MM/DD/YY Format</value>
+      <webElementGuid>43b23a29-3e5b-4847-8b4e-f196b365a183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item-vfb-18&quot;)</value>
+      <webElementGuid>eced89d5-3eda-434b-8746-7eb913783d59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='item-vfb-18']</value>
+      <webElementGuid>4d8b7eee-7d6a-4645-8699-a16ad67e272a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='item-vfb-1']/ul/li[6]</value>
+      <webElementGuid>1f610bc2-b203-4e1d-bf7e-9de27000c590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter a valid email address.'])[1]/following::li[1]</value>
+      <webElementGuid>fddcec29-8526-4c89-905c-f756fa1c53c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::li[1]</value>
+      <webElementGuid>4579dcdf-2011-4937-a989-839155e0bd33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/ul/li[6]</value>
+      <webElementGuid>e6680b1f-0564-4a41-bc2e-22352f75ef43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'item-vfb-18' and (text() = 'Date of Demo Enter in MM/DD/YY Format' or . = 'Date of Demo Enter in MM/DD/YY Format')]</value>
+      <webElementGuid>98d21e9f-1ae9-43e2-9ff2-0660c1482a46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
